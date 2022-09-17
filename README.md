@@ -40,7 +40,9 @@ I'm also looking out for full-time Software Engineering/Data Engineering roles i
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=reubenabraham&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reubenabraham)](https://github.com/anuraghazra/github-readme-stats)
+![Reuben's GitHub stats](https://github-readme-stats.vercel.app/api?username=reubenabraham&show_icons=true&theme=radical&count_private=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reubenabraham&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 Thanks for stopping by!
 
