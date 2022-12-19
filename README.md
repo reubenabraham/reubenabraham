@@ -12,7 +12,7 @@
 
 👋 Hi, I’m @reubenabraham
 
-I'm a current Master's student studying Computer Science at NYU, and I also work part-time as a SWE at [Vital](https://www.vitaler.com).
+I'm a current Master's student studying Computer Science at NYU.
 
 I'm interested in building-out infrastructure for Machine Learning applications and in my spare time, I dabble with some Backend Software Engineering.
 If you'd like to collaborate on a project, or want access to my private repositories, [connect](https://www.linkedin.com/in/reuben-abraham20/) with me or mail me at rca9751@nyu.edu.
